@@ -1,0 +1,14 @@
+C:\Users\chaut\OneDrive\Escritorio\Topicos Programacion\Ejercicio1_2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\chaut\OneDrive\Escritorio\Topicos Programacion\Ejercicio1_2\Practica2\bin\Debug\Practica2.exe
+C:\Users\chaut\OneDrive\Escritorio\Topicos Programacion\Ejercicio1_2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\chaut\OneDrive\Escritorio\Topicos Programacion\Ejercicio1_2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\chaut\OneDrive\Escritorio\Topicos Programacion\Ejercicio1_2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\chaut\OneDrive\Escritorio\Topicos Programacion\Ejercicio1_2\Practica2\obj\Debug\Practica2.exe
+C:\Users\chaut\OneDrive\Escritorio\Topicos Programacion\Ejercicio1_2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Ejercicio1_2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Ejercicio1_2\Practica2\bin\Debug\Practica2.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Ejercicio1_2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Ejercicio1_2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Ejercicio1_2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Ejercicio1_2\Practica2\obj\Debug\Practica2.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Ejercicio1_2\Practica2\obj\Debug\Practica2.pdb
