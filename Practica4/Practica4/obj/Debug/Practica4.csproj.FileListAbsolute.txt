@@ -1,0 +1,7 @@
+C:\Users\ninte\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.AssemblyReference.cache
+C:\Users\ninte\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\ninte\source\repos\Practica4\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\ninte\source\repos\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\ninte\source\repos\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\ninte\source\repos\Practica4\Practica4\obj\Debug\Practica4.exe
+C:\Users\ninte\source\repos\Practica4\Practica4\obj\Debug\Practica4.pdb
