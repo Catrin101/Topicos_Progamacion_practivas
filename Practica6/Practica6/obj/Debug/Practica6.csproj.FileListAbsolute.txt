@@ -1,0 +1,10 @@
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\obj\Debug\Practica6.csproj.AssemblyReference.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\obj\Debug\Practica6.Form1.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\obj\Debug\Practica6.Properties.Resources.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\obj\Debug\Practica6.csproj.GenerateResource.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\obj\Debug\Practica6.csproj.CoreCompileInputs.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\bin\Debug\Practica6.exe.config
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\bin\Debug\Practica6.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\bin\Debug\Practica6.pdb
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\obj\Debug\Practica6.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\Practica6\Practica6\obj\Debug\Practica6.pdb
