@@ -1,0 +1,14 @@
+C:\Users\ninte\source\repos\Tarea4\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\ninte\source\repos\Tarea4\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\ninte\source\repos\Tarea4\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\ninte\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.AssemblyReference.cache
+C:\Users\ninte\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.Form1.resources
+C:\Users\ninte\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.Properties.Resources.resources
+C:\Users\ninte\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.GenerateResource.cache
+C:\Users\ninte\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.CoreCompileInputs.cache
+C:\Users\ninte\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\ninte\source\repos\Tarea4\Tarea4\obj\Debug\Tarea4.pdb
+C:\Users\ninte\source\repos\Tarea4\Tarea4\bin\Debug\Sonidos\boo.wav
+C:\Users\ninte\source\repos\Tarea4\Tarea4\bin\Debug\Sonidos\cat.wav
+C:\Users\ninte\source\repos\Tarea4\Tarea4\bin\Debug\Sonidos\drums.wav
+C:\Users\ninte\source\repos\Tarea4\Tarea4\bin\Debug\Sonidos\laugh.wav
