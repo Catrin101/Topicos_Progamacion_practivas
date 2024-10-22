@@ -1,0 +1,11 @@
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\bin\Debug\pactica10.exe.config
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\bin\Debug\pactica10.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\bin\Debug\pactica10.pdb
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\obj\Debug\pactica10.csproj.AssemblyReference.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\obj\Debug\pactica10.Login.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\obj\Debug\pactica10.Form2.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\obj\Debug\pactica10.Properties.Resources.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\obj\Debug\pactica10.csproj.GenerateResource.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\obj\Debug\pactica10.csproj.CoreCompileInputs.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\obj\Debug\pactica10.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\pactica10\pactica10\obj\Debug\pactica10.pdb
