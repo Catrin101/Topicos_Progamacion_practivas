@@ -1,0 +1,10 @@
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\bin\Debug\practica12.exe.config
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\bin\Debug\practica12.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\bin\Debug\practica12.pdb
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\obj\Debug\practica12.csproj.AssemblyReference.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\obj\Debug\practica12.Form1.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\obj\Debug\practica12.Properties.Resources.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\obj\Debug\practica12.csproj.GenerateResource.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\obj\Debug\practica12.csproj.CoreCompileInputs.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\obj\Debug\practica12.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica12\practica12\obj\Debug\practica12.pdb
