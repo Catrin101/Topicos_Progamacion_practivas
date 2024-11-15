@@ -1,0 +1,15 @@
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.csproj.AssemblyReference.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.Form1.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.Properties.Resources.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.Tabla.resources
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.csproj.GenerateResource.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.csproj.CoreCompileInputs.cache
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\bin\Debug\practica13.exe.config
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\bin\Debug\practica13.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\bin\Debug\practica13.pdb
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.pdb
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\bin\Debug\Capa Persicstencia.exe
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\bin\Debug\Capa Persicstencia.pdb
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\bin\Debug\Capa Persicstencia.exe.config
+C:\Users\ninte\OneDrive\Desktop\Topicos Programacion\practica13\practica13\obj\Debug\practica13.csproj.Up2Date
